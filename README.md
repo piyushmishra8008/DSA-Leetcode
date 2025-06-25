@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

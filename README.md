@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

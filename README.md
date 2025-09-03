@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [2481-strictly-palindromic-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [2481-strictly-palindromic-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Trie
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0118-pascals-triangle) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

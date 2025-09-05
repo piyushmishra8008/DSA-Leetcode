@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->

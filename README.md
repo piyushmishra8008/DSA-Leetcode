@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |

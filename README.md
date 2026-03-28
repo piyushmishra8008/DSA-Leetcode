@@ -68,6 +68,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3875-construct-uniform-parity-array-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3875-construct-uniform-parity-array-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |

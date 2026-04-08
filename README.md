@@ -75,6 +75,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0258-add-digits) |
 | [2481-strictly-palindromic-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -161,6 +162,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0258-add-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
@@ -193,4 +195,8 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

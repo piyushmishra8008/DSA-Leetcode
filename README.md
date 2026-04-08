@@ -10,6 +10,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0049-group-anagrams](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -34,6 +35,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -149,6 +152,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | ------- |
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting Sort
 |  |

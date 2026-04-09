@@ -19,10 +19,10 @@ public:
 
             else if(nums[i] == nums[i-1] + 1){
                 ans++;
+            }else{
+                ans=1;
             }
-            else{
-                ans = 1;
-            }
+            
 
             maxi = max(ans, maxi);
         }

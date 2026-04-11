@@ -47,6 +47,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0118-pascals-triangle) |
@@ -109,6 +110,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
@@ -138,6 +140,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming

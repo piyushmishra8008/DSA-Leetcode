@@ -17,6 +17,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |

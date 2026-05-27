@@ -84,6 +84,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0258-add-digits) |
 | [2481-strictly-palindromic-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -221,4 +222,12 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

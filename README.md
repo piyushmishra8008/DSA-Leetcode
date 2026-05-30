@@ -108,6 +108,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0141-linked-list-cycle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -126,6 +127,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0128-longest-consecutive-sequence](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
@@ -238,6 +240,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0019-remove-nth-node-from-end-of-list](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |

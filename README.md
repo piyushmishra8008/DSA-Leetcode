@@ -74,6 +74,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [1848-minimum-distance-to-the-target-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -159,6 +160,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
@@ -220,6 +222,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0011-container-with-most-water](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2126-destroying-asteroids](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
 | ------- |

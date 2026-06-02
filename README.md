@@ -14,6 +14,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1528-shuffle-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1528-shuffle-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -70,6 +71,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0882-peak-index-in-a-mountain-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-shuffle-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1528-shuffle-string) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |

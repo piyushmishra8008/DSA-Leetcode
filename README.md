@@ -86,6 +86,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -119,6 +120,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0287-find-the-duplicate-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2481-strictly-palindromic-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [2126-destroying-asteroids](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
@@ -212,6 +215,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0074-search-a-2d-matrix](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2126-destroying-asteroids](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

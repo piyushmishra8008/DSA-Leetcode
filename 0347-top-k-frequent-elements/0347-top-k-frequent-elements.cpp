@@ -5,18 +5,19 @@ public:
         for(int num : nums){
             mp[num]++;
         }
-        vector<int>result;
-        while(k--){
-            int maxfreq=0;
-            int element=-1;
-            for(auto it:mp){
-                if(it.second>maxfreq){
-                    maxfreq=it.second;
-                    element=it.first;
-                }
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        for(auto it:mp){
+            int freq=it.second;
+            int value=it.first;
+                pq.push({freq,value});
+            if(pq.size()>k){
+                pq.pop();
             }
-            result.push_back(element);
-            mp.erase(element);
+        }
+        vector<int>result;
+        while(!pq.empty()){
+            result.push_back(pq.top().second);
+            pq.pop();
         }
         return result;
     }

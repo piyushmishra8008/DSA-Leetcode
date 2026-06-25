@@ -66,6 +66,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0238-product-of-array-except-self](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -139,6 +140,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
@@ -162,6 +164,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0075-sort-colors](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -190,6 +193,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | ------- |
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting Sort
@@ -235,6 +239,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | ------- |
 | [0053-maximum-subarray](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -270,4 +275,16 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

@@ -88,6 +88,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -152,6 +153,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -240,11 +243,13 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0053-maximum-subarray](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -287,4 +292,12 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0014-longest-common-prefix](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |

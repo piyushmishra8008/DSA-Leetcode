@@ -17,6 +17,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [1078-remove-outermost-parentheses](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1528-shuffle-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -82,6 +83,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |

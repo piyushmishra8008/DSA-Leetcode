@@ -165,6 +165,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
@@ -335,11 +336,13 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0100-same-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -351,4 +354,9 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0100-same-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

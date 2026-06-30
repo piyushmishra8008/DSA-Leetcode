@@ -92,6 +92,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2551-apply-operations-to-an-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -110,6 +111,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0189-rotate-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0258-add-digits) |
 | [2481-strictly-palindromic-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -161,6 +163,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -193,6 +196,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming

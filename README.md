@@ -15,6 +15,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1528-shuffle-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -26,6 +27,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
@@ -155,6 +157,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |

@@ -11,6 +11,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0058-length-of-last-word](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0812-rotate-string) |
@@ -352,6 +353,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -360,6 +362,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0100-same-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -377,10 +380,15 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

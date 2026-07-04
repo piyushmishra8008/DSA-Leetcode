@@ -60,6 +60,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -204,6 +205,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -242,6 +244,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0258-add-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2551-apply-operations-to-an-array) |

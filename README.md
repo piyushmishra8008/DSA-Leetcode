@@ -86,6 +86,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0560-subarray-sum-equals-k](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1288-remove-covered-intervals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -197,6 +198,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

@@ -127,6 +127,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [3279-alice-and-bob-playing-flower-game](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |

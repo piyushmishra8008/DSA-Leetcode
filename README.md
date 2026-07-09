@@ -11,6 +11,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0058-length-of-last-word](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0782-jewels-and-stones) |
@@ -170,6 +171,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -200,6 +202,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0169-majority-element](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |

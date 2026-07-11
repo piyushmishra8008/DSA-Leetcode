@@ -227,6 +227,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0118-pascals-triangle](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 | [0222-count-complete-tree-nodes](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A good collection of LeetCode questions to ace the coding interview! - Created u
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/piyushmishra8008/DSA-Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Tree
 |  |
 | ------- |
